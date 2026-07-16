@@ -24,8 +24,8 @@
 │ 💻 Class     :: Programmer                   │
 │ 🎓 Guild     :: FISAT                        │
 │ 📍 Region    :: India                        │
-│ ⚡ Rank      :: Student Developer            │
-│ 🔥 Status    :: Learning • Building • Grow  │
+ │ ⚡ Rank      :: Student Developer            │
+ │ 🔥 Status    :: Learning • Building • Grow  │
 └──────────────────────────────────────────────┘
 ```
 
@@ -73,6 +73,15 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
+---
+
+# 🏆 Hunter Achievements
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Edwinshajan2006&theme=algolia&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 # 💻 Tech Stack
 
 ### Languages
@@ -86,6 +95,46 @@
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
+---
+
+# ⚒️ Current Arsenal
+
+```text
+💻 Laptop
+HP 15s
+
+🐧 OS
+Linux Mint
+
+📝 Editor
+VS Code
+
+🔧 Embedded
+ESP8266
+Arduino
+
+🌐 Version Control
+Git + GitHub
+```
+---
+
+# 🎮 Current Quest
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚔️ Build More Open Source Projects
+
+📚 Master Linux
+
+🤖 Learn AI
+
+📡 Complete Smart Fridge Tracker
+
+🎯 Improve Problem Solving
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 ### Tools
 
@@ -145,6 +194,15 @@
 - 🚀 Creating Open Source Projects
 
 ---
+---
+
+# 📊 Contribution Activity
+
+<div align="center">
+
+[![Edwin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Edwinshajan2006&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 # 📊 GitHub Statistics
 
@@ -175,7 +233,15 @@
 </p>
 
 ---
+---
 
+# 👁️ Hunter Visits
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Edwinshajan2006&style=for-the-badge&color=blue)
+
+</div>
 <div align="center">
 
 ### ⚔️ Continue Learning. Continue Building.
@@ -193,5 +259,16 @@
 <img src="https://komarev.com/ghpvc/?username=Edwinshajan2006&style=for-the-badge&color=0e75b6"/>
 
 ⭐ Thanks for visiting my profile!
+
+</div>
+---
+
+<div align="center">
+
+## ⚔️ 「 ARISE • BUILD • EVOLVE 」
+
+*"Every commit makes me stronger."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer"/>
 
 </div>
