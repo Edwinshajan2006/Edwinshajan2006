@@ -26,17 +26,19 @@ Status    : Learning • Building • Improving
 
 ---
 
-# 🧠 About Me
+# 🌌 About Me
 
-- 🎓 B.Tech Computer Science Student
-- 🐧 Linux Daily Driver
-- 📡 Passionate about IoT & Embedded Systems
-- 🤖 Currently exploring Artificial Intelligence
-- 🎮 Gamer
-- 💡 Love building useful projects
-- ☕ Sleep is overrated af
+> *"Every great developer starts with a single line of code."*
 
----
+```text
+🧠 Computer Science Student
+🐧 Linux Daily Driver
+📡 IoT & Embedded Systems Enthusiast
+🤖 Exploring Artificial Intelligence
+🎮 Gamer
+💡 Love solving real-world problems
+☕ Sleep is overrated af
+```
 
 # 💻 Tech Stack
 
