@@ -1,0 +1,131 @@
+<div align="center">
+
+# 👑 Edwin-NeD
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=4FC3F7&center=true&vCenter=true&width=800&lines=ARISE.;B.Tech+Computer+Science+Student;Linux+Enthusiast;IoT+Developer;Exploring+Artificial+Intelligence;Welcome+to+my+GitHub!" />
+
+<br>
+
+### ⚔️ 「 Building ideas into reality, one commit at a time. 」
+
+</div>
+
+---
+
+# ⚡ Hunter Status
+
+```yaml
+Name      : Edwin-NeD
+Username  : Edwinshajan2006
+Rank      : Student Developer
+Class     : Programmer
+Guild     : FISAT
+Location  : India
+Status    : Learning • Building • Improving
+```
+
+---
+
+# 🧠 About Me
+
+- 🎓 B.Tech Computer Science Student
+- 🐧 Linux Daily Driver
+- 📡 Passionate about IoT & Embedded Systems
+- 🤖 Currently exploring Artificial Intelligence
+- 🎮 Gamer
+- 💡 Love building useful projects
+- ☕ Sleep is overrated af
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🧊 Smart Fridge Tracker | IoT-based smart refrigerator management system using ESP8266 & OLED |
+| 💾 DBMS Mini | Database mini project for college |
+| 📱 QR Code Generator | Simple QR code generation application |
+| 📡 ESP8266 IoT | Experiments and IoT projects |
+| 🤖 Arduino Projects | Embedded systems and electronics projects |
+
+---
+
+# 🎯 Current Focus
+
+- 🌌 Learning Artificial Intelligence
+- 📡 Building IoT Projects
+- 🐧 Improving Linux Skills
+- 💻 Writing Better Code
+- 🚀 Creating Open Source Projects
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Edwinshajan2006&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Edwinshajan2006&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwinshajan2006&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Edwinshajan2006">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.instagram.com/edwi__n/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⚔️ Continue Learning. Continue Building.
+
+![](https://komarev.com/ghpvc/?username=Edwinshajan2006&style=for-the-badge&color=blue)
+
+</div>
