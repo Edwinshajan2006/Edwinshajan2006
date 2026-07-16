@@ -12,17 +12,24 @@
 
 ---
 
-# ⚡ Hunter Status
+<div align="center">
 
-```yaml
-Name      : Edwin-NeD
-Username  : Edwinshajan2006
-Rank      : Student Developer
-Class     : Programmer
-Guild     : FISAT
-Location  : India
-Status    : Learning • Building • Improving
+# ⚔️ SYSTEM INTERFACE
+
 ```
+┌──────────────────────────────────────────────┐
+│                HUNTER STATUS                 │
+├──────────────────────────────────────────────┤
+│ 👤 Name      :: Edwin-NeD                    │
+│ 💻 Class     :: Programmer                   │
+│ 🎓 Guild     :: FISAT                        │
+│ 📍 Region    :: India                        │
+│ ⚡ Rank      :: Student Developer            │
+│ 🔥 Status    :: Learning • Building • Grow  │
+└──────────────────────────────────────────────┘
+```
+
+</div>
 
 ---
 
@@ -40,6 +47,32 @@ Status    : Learning • Building • Improving
 ☕ Sleep is overrated af
 ```
 
+# 📈 Hunter Progress
+
+| Skill | Progress |
+|-------|----------|
+| 🐧 Linux | █████████░ 90% |
+| 💻 Programming | ████████░░ 80% |
+| 📡 IoT | ███████░░░ 70% |
+| 🤖 AI | ███░░░░░░░ 30% |
+| 🌐 Web Development | ██████░░░░ 60% |
+# 🎯 Current Mission
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📖 Master Linux
+
+🤖 Learn Artificial Intelligence
+
+📡 Build Smart IoT Systems
+
+🌍 Contribute to Open Source
+
+🚀 Become a Better Software Engineer
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 # 💻 Tech Stack
 
 ### Languages
@@ -74,14 +107,33 @@ Status    : Learning • Building • Improving
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🧊 Smart Fridge Tracker | IoT-based smart refrigerator management system using ESP8266 & OLED |
-| 💾 DBMS Mini | Database mini project for college |
-| 📱 QR Code Generator | Simple QR code generation application |
-| 📡 ESP8266 IoT | Experiments and IoT projects |
-| 🤖 Arduino Projects | Embedded systems and electronics projects |
+### 🧊 Smart Fridge Tracker
 
+> ESP8266 + OLED based smart refrigerator management system.
+
+---
+
+### 💾 DBMS Mini
+
+> College database management project.
+
+---
+
+### 📱 QR Code Generator
+
+> Generate QR codes with a clean interface.
+
+---
+
+### 📡 ESP8266 IoT
+
+> Home automation & embedded experiments.
+
+---
+
+### 🤖 Arduino Projects
+
+> Electronics and embedded development.
 ---
 
 # 🎯 Current Focus
@@ -129,5 +181,17 @@ Status    : Learning • Building • Improving
 ### ⚔️ Continue Learning. Continue Building.
 
 ![](https://komarev.com/ghpvc/?username=Edwinshajan2006&style=for-the-badge&color=blue)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚔️ 「 ARISE • BUILD • REPEAT 」
+
+<img src="https://komarev.com/ghpvc/?username=Edwinshajan2006&style=for-the-badge&color=0e75b6"/>
+
+⭐ Thanks for visiting my profile!
 
 </div>
