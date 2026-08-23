@@ -132,22 +132,19 @@ I'm continuously improving my fundamentals while building projects that turn wha
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Edwinshajan2006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Edwinshajan2006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwinshajan2006&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Edwinshajan2006&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
-
-## 📈 Contribution Activity
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Edwinshajan2006&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwinshajan2006&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
 
 ---
 
