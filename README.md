@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Edwin Shajan</h1>
 
-<h3 align="center">Computer Science Engineering Student • Developer • IoT Enthusiast</h3>
+<h3 align="center">Computer Science Engineering Student • Developer • Linux Enthusiast • IoT Explorer</h3>
 
 <p align="center">
-  <em>Building practical software, embedded systems, and intelligent solutions.</em>
+  <em>Building practical software, embedded systems, Linux tools, and intelligent solutions.</em>
 </p>
 
 <p align="center">
@@ -20,13 +20,15 @@
 ## 👨‍💻 About Me
 
 * 🎓 Computer Science Engineering student
-* 🐧 Linux enthusiast and daily Linux user
+* 🐧 Daily Linux user and Linux enthusiast
 * 💻 Interested in software development and problem solving
+* 🖥️ Exploring Linux internals, system utilities, and CLI development
 * 📡 Exploring Embedded Systems, IoT, and microcontrollers
 * 🤖 Currently learning Artificial Intelligence
 * 🧠 Practicing Data Structures & Algorithms
 * 🗄️ Building applications involving databases and backend logic
 * 🚀 Focused on building practical, real-world projects
+* 🔧 Enjoy experimenting with systems, hardware, and developer tooling
 
 ---
 
@@ -44,10 +46,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,mysql" />
 </p>
 
-### 🔧 Tools & Development Environment
+### 🐧 Linux & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode" />
 </p>
 
 ### 📡 Embedded & IoT
@@ -61,6 +63,31 @@
 ---
 
 ## 🚀 Featured Projects
+
+### 🐧 NED-OS
+
+A personal Linux-based system project focused on creating a customized developer environment with system information, CLI utilities, and a consistent NED-OS experience.
+
+The project explores Linux system fundamentals, shell scripting, terminal customization, system monitoring, and developer tooling.
+
+**Tech:** Linux • Bash • Shell Scripting • Git • CLI Tools
+
+**Current Features:**
+
+* 🖥️ Custom NED-OS terminal identity
+* 📊 System information and status utilities
+* 🩺 System diagnostics with `ned doctor`
+* ℹ️ System information with `ned info`
+* 📈 System status with `ned status`
+* 🎨 Theme management
+* 🖼️ Wallpaper management
+* 📚 Built-in CLI help
+* 🔧 Modular shell scripts for system utilities
+* 📡 Wi-Fi scanning functionality under development
+
+> **Goal:** Build NED-OS into a practical, modular Linux environment while learning more about Linux internals, shell scripting, networking, and system administration.
+
+---
 
 ### 🧊 Smart Fridge Tracker
 
@@ -110,6 +137,32 @@ I regularly practice programming problems to improve my algorithmic thinking and
 
 ---
 
+## 🐧 Linux Journey
+
+Linux has become an important part of my development workflow.
+
+I'm currently exploring:
+
+```text
+Linux Fundamentals
+       ↓
+Shell & Bash Scripting
+       ↓
+System Information & Monitoring
+       ↓
+CLI Tool Development
+       ↓
+Networking & Wi-Fi
+       ↓
+Linux Internals
+       ↓
+NED-OS
+```
+
+NED-OS is my way of turning that learning into a practical project.
+
+---
+
 ## 🌱 Currently Learning
 
 ```text
@@ -117,11 +170,15 @@ Artificial Intelligence
         ↓
 Data Structures & Algorithms
         ↓
-Embedded Systems & IoT
-        ↓
 Linux & System Fundamentals
         ↓
+Embedded Systems & IoT
+        ↓
+Networking
+        ↓
 Web Development
+        ↓
+Software Engineering
 ```
 
 I'm continuously improving my fundamentals while building projects that turn what I learn into practical applications.
@@ -160,12 +217,14 @@ I'm continuously improving my fundamentals while building projects that turn wha
 
 ## 🎯 2026 Goals
 
+* 🐧 Continue developing NED-OS
 * 🚀 Build more complete real-world projects
 * 🧠 Strengthen Data Structures & Algorithms
 * 🤖 Develop practical AI projects
 * 📡 Build more advanced IoT systems
-* 🐧 Deepen Linux and system knowledge
+* 🌐 Learn more about networking and Linux systems
 * 💻 Improve software engineering practices
+* 🔧 Build useful developer and system tools
 * 🌐 Develop and deploy more web applications
 * 🤝 Contribute to open-source projects
 
