@@ -21,22 +21,22 @@
 
 I'm a Computer Science Engineering student who enjoys understanding how things work and turning that curiosity into projects.
 
-* 🐧 Linux is my daily development environment
-* 💻 Interested in software development, systems, and CLI tools
-* 🛠️ Building **NED-OS**, my personal Linux environment/project
-* 📡 Exploring Embedded Systems, ESP32, ESP8266, and IoT
-* 🤖 Learning Artificial Intelligence and Machine Learning
-* 🧠 Practicing Data Structures & Algorithms
-* 🗄️ Working with databases and backend systems
-* 🌐 Exploring networking and web development
-* 🔧 I enjoy experimenting with hardware, software, and developer tooling
-* 🚀 I learn best by building things
+- 🐧 Linux is my daily development environment
+- 💻 Interested in software development, systems, and CLI tools
+- 🛠️ Building **NED-OS**, my personal Linux system project
+- 📡 Exploring Embedded Systems, ESP32, ESP8266, and IoT
+- 🤖 Learning Artificial Intelligence and Machine Learning
+- 🧠 Practicing Data Structures & Algorithms
+- 🗄️ Working with databases and backend systems
+- 🌐 Exploring networking and web development
+- 🔧 I enjoy experimenting with hardware, software, and developer tooling
+- 🚀 I learn best by building things
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,java,bash" />
@@ -74,30 +74,32 @@ It combines Linux customization, shell scripting, CLI utilities, system monitori
 
 **Current areas:**
 
-* 🖥️ Custom terminal environment
-* 📊 System information and monitoring
-* 🩺 System diagnostics
-* 🎨 Theme and wallpaper management
-* 🛠️ Custom CLI utilities
-* 📡 Networking and Wi-Fi tools
-* 🧩 Modular shell scripts
-* 🖥️ Desktop environment customization
+- 🖥️ Custom NED-OS terminal environment
+- 📊 System information and monitoring
+- 🩺 System diagnostics
+- 🎨 Theme and wallpaper management
+- 🛠️ Custom CLI utilities
+- 📡 Networking and Wi-Fi tools
+- 🧩 Modular shell scripts
+- 🖥️ Desktop environment customization
 
 > **Goal:** Turn NED-OS into a practical Linux environment while learning more about Linux internals, networking, system administration, and software engineering.
 
 ---
 
-### 📡 IoT & Embedded Projects
+### 🧊 Smart Fridge Tracker
 
-I've built and experimented with projects involving:
+An IoT-based refrigerator management system designed to track food items and their expiry dates.
 
-* 🧊 Smart Fridge Tracker
-* 🚗 ESP32 Remote Controlled Car
-* 📟 OLED-based sensor systems
-* 📡 ESP32/ESP8266 wireless communication
-* 🔌 Microcontroller-based automation
+**Tech:** ESP8266 • OLED • Sensors • Embedded C/C++
 
-**Technologies:** ESP32 • ESP8266 • Arduino • Embedded C/C++ • Wi-Fi • Sensors
+---
+
+### 🚗 ESP32 Remote Controlled Car
+
+A wireless remote-controlled vehicle project using ESP32/ESP8266 communication and embedded control logic.
+
+**Tech:** ESP32 • ESP8266 • Arduino • Wi-Fi • Embedded Systems
 
 ---
 
@@ -105,13 +107,15 @@ I've built and experimented with projects involving:
 
 A personal repository documenting my Python learning journey through programming fundamentals, experimentation, and problem solving.
 
+**Focus:** Python • Programming Fundamentals • Problem Solving
+
 ---
 
 ### 🗄️ Event Management System
 
 A database-driven application focused on CRUD operations, SQL queries, and database management.
 
-**Technologies:** MySQL • SQL • Database Systems
+**Tech:** MySQL • SQL • Database Systems
 
 ---
 
@@ -121,13 +125,13 @@ I'm continuously improving my algorithmic thinking and programming fundamentals.
 
 **Currently practicing:**
 
-* Arrays & Strings
-* Searching & Sorting
-* Hashing
-* Recursion
-* Data Structures
-* Dynamic Programming
-* Algorithmic Problem Solving
+- Arrays & Strings
+- Searching & Sorting
+- Hashing
+- Recursion
+- Data Structures
+- Dynamic Programming
+- Algorithmic Problem Solving
 
 ---
 
@@ -147,96 +151,3 @@ Networking
 Linux Internals
   ↓
 NED-OS
-```
-
-NED-OS is where I turn that learning into something practical.
-
----
-
-## 🌱 Currently Learning
-
-```text
-Artificial Intelligence
-        ↓
-Data Structures & Algorithms
-        ↓
-Linux & System Programming
-        ↓
-Networking
-        ↓
-Embedded Systems & IoT
-        ↓
-Web Development
-        ↓
-Software Engineering
-```
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Edwinshajan2006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Edwinshajan2006&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwinshajan2006&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Edwinshajan2006&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🎯 2026 Goals
-
-* 🐧 Continue developing NED-OS
-* 🤖 Build practical AI/ML projects
-* 📡 Develop more advanced IoT systems
-* 🧠 Strengthen DSA and problem-solving skills
-* 🌐 Learn deeper networking and Linux internals
-* 💻 Improve software engineering practices
-* 🔧 Build useful developer and system tools
-* 🚀 Build and deploy real-world applications
-* 🤝 Contribute to open-source projects
-
----
-
-## 🤝 Connect
-
-<p align="center">
-
-<a href="https://github.com/Edwinshajan2006">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<h3 align="center">
-  Building • Learning • Experimenting • Improving 🚀
-</h3>
-
-<p align="center">
-  <i>Turning ideas into projects, one commit at a time.</i>
-</p>
