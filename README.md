@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Edwin Shajan</h1>
 
-<h3 align="center">Computer Science Engineering Student • Developer • Linux Enthusiast • IoT Explorer</h3>
+<h3 align="center">Computer Science Engineering Student • Linux Enthusiast • Developer • IoT Explorer</h3>
 
 <p align="center">
-  <em>Building practical software, embedded systems, Linux tools, and intelligent solutions.</em>
+  <em>Building software, Linux tools, embedded systems, and practical projects.</em>
 </p>
 
 <p align="center">
@@ -19,28 +19,30 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 Computer Science Engineering student
-* 🐧 Daily Linux user and Linux enthusiast
-* 💻 Interested in software development and problem solving
-* 🖥️ Exploring Linux internals, system utilities, and CLI development
-* 📡 Exploring Embedded Systems, IoT, and microcontrollers
-* 🤖 Currently learning Artificial Intelligence
+I'm a Computer Science Engineering student who enjoys understanding how things work and turning that curiosity into projects.
+
+* 🐧 Linux is my daily development environment
+* 💻 Interested in software development, systems, and CLI tools
+* 🛠️ Building **NED-OS**, my personal Linux environment/project
+* 📡 Exploring Embedded Systems, ESP32, ESP8266, and IoT
+* 🤖 Learning Artificial Intelligence and Machine Learning
 * 🧠 Practicing Data Structures & Algorithms
-* 🗄️ Building applications involving databases and backend logic
-* 🚀 Focused on building practical, real-world projects
-* 🔧 Enjoy experimenting with systems, hardware, and developer tooling
+* 🗄️ Working with databases and backend systems
+* 🌐 Exploring networking and web development
+* 🔧 I enjoy experimenting with hardware, software, and developer tooling
+* 🚀 I learn best by building things
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,java" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,bash" />
 </p>
 
-### 🌐 Web & Database
+### 🌐 Web & Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,mysql" />
@@ -49,7 +51,7 @@
 ### 🐧 Linux & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
 </p>
 
 ### 📡 Embedded & IoT
@@ -58,7 +60,7 @@
   <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
-**Hardware:** ESP32 • ESP8266 • Arduino • OLED Displays • Sensors
+**Hardware & Platforms:** ESP32 • ESP8266 • Arduino • OLED Displays • Sensors
 
 ---
 
@@ -66,100 +68,88 @@
 
 ### 🐧 NED-OS
 
-A personal Linux-based system project focused on creating a customized developer environment with system information, CLI utilities, and a consistent NED-OS experience.
+**NED-OS** is my personal Linux system project focused on building a customized, modular developer environment.
 
-The project explores Linux system fundamentals, shell scripting, terminal customization, system monitoring, and developer tooling.
+It combines Linux customization, shell scripting, CLI utilities, system monitoring, terminal tooling, and desktop integration into a single project.
 
-**Tech:** Linux • Bash • Shell Scripting • Git • CLI Tools
+**Current areas:**
 
-**Current Features:**
+* 🖥️ Custom terminal environment
+* 📊 System information and monitoring
+* 🩺 System diagnostics
+* 🎨 Theme and wallpaper management
+* 🛠️ Custom CLI utilities
+* 📡 Networking and Wi-Fi tools
+* 🧩 Modular shell scripts
+* 🖥️ Desktop environment customization
 
-* 🖥️ Custom NED-OS terminal identity
-* 📊 System information and status utilities
-* 🩺 System diagnostics with `ned doctor`
-* ℹ️ System information with `ned info`
-* 📈 System status with `ned status`
-* 🎨 Theme management
-* 🖼️ Wallpaper management
-* 📚 Built-in CLI help
-* 🔧 Modular shell scripts for system utilities
-* 📡 Wi-Fi scanning functionality under development
-
-> **Goal:** Build NED-OS into a practical, modular Linux environment while learning more about Linux internals, shell scripting, networking, and system administration.
+> **Goal:** Turn NED-OS into a practical Linux environment while learning more about Linux internals, networking, system administration, and software engineering.
 
 ---
 
-### 🧊 Smart Fridge Tracker
+### 📡 IoT & Embedded Projects
 
-An IoT-based refrigerator management system designed to track food items and their expiry dates.
+I've built and experimented with projects involving:
 
-**Tech:** ESP8266 • OLED • Sensors • Embedded C/C++
+* 🧊 Smart Fridge Tracker
+* 🚗 ESP32 Remote Controlled Car
+* 📟 OLED-based sensor systems
+* 📡 ESP32/ESP8266 wireless communication
+* 🔌 Microcontroller-based automation
 
----
-
-### 🚗 ESP32 Remote Controlled Car
-
-A wireless remote-controlled vehicle project using ESP32/ESP8266 communication and embedded control logic.
-
-**Tech:** ESP32 • ESP8266 • Arduino • Wi-Fi • Embedded Systems
+**Technologies:** ESP32 • ESP8266 • Arduino • Embedded C/C++ • Wi-Fi • Sensors
 
 ---
 
 ### 🐍 Learn Python
 
-A personal repository documenting my journey through Python programming, from fundamentals to problem solving.
-
-**Focus:** Python • Programming Fundamentals • Problem Solving
+A personal repository documenting my Python learning journey through programming fundamentals, experimentation, and problem solving.
 
 ---
 
 ### 🗄️ Event Management System
 
-A database-driven event management project implementing common CRUD operations and SQL-based data management.
+A database-driven application focused on CRUD operations, SQL queries, and database management.
 
-**Tech:** SQL • MySQL • Database Management
+**Technologies:** MySQL • SQL • Database Systems
 
 ---
 
 ## 🧠 Problem Solving
 
-I regularly practice programming problems to improve my algorithmic thinking and understanding of Data Structures & Algorithms.
+I'm continuously improving my algorithmic thinking and programming fundamentals.
 
-**Currently focusing on:**
+**Currently practicing:**
 
 * Arrays & Strings
 * Searching & Sorting
 * Hashing
 * Recursion
-* Basic Dynamic Programming
 * Data Structures
+* Dynamic Programming
 * Algorithmic Problem Solving
 
 ---
 
-## 🐧 Linux Journey
-
-Linux has become an important part of my development workflow.
-
-I'm currently exploring:
+## 🐧 My Linux Journey
 
 ```text
-Linux Fundamentals
-       ↓
-Shell & Bash Scripting
-       ↓
-System Information & Monitoring
-       ↓
-CLI Tool Development
-       ↓
-Networking & Wi-Fi
-       ↓
+Linux
+  ↓
+Shell & CLI
+  ↓
+System Administration
+  ↓
+System Monitoring
+  ↓
+Networking
+  ↓
 Linux Internals
-       ↓
+  ↓
 NED-OS
 ```
 
-NED-OS is my way of turning that learning into a practical project.
+NED-OS is where I turn that learning into something practical.
 
 ---
 
@@ -170,18 +160,16 @@ Artificial Intelligence
         ↓
 Data Structures & Algorithms
         ↓
-Linux & System Fundamentals
-        ↓
-Embedded Systems & IoT
+Linux & System Programming
         ↓
 Networking
+        ↓
+Embedded Systems & IoT
         ↓
 Web Development
         ↓
 Software Engineering
 ```
-
-I'm continuously improving my fundamentals while building projects that turn what I learn into practical applications.
 
 ---
 
@@ -218,19 +206,18 @@ I'm continuously improving my fundamentals while building projects that turn wha
 ## 🎯 2026 Goals
 
 * 🐧 Continue developing NED-OS
-* 🚀 Build more complete real-world projects
-* 🧠 Strengthen Data Structures & Algorithms
-* 🤖 Develop practical AI projects
-* 📡 Build more advanced IoT systems
-* 🌐 Learn more about networking and Linux systems
+* 🤖 Build practical AI/ML projects
+* 📡 Develop more advanced IoT systems
+* 🧠 Strengthen DSA and problem-solving skills
+* 🌐 Learn deeper networking and Linux internals
 * 💻 Improve software engineering practices
 * 🔧 Build useful developer and system tools
-* 🌐 Develop and deploy more web applications
+* 🚀 Build and deploy real-world applications
 * 🤝 Contribute to open-source projects
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect
 
 <p align="center">
 
@@ -242,16 +229,12 @@ I'm continuously improving my fundamentals while building projects that turn wha
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </p>
 
 ---
 
 <h3 align="center">
-  Building • Learning • Improving 🚀
+  Building • Learning • Experimenting • Improving 🚀
 </h3>
 
 <p align="center">
