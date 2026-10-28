@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="80" viewBox="0 0 1200 80" role="img" aria-labelledby="title desc">
+  <title id="title">NED-OS profile footer</title>
+  <desc id="desc">Neon green terminal divider and build learn improve repeat motto.</desc>
+  <defs>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop stop-color="#39ff88" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#39ff88"/>
+      <stop offset="1" stop-color="#39ff88" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="80" rx="8" fill="#020604"/>
+  <path d="M20 15H1180" stroke="url(#line)" stroke-width="2"/>
+  <path d="M20 64H1180" stroke="url(#line)" stroke-width="2"/>
+  <g font-family="monospace" font-size="14" fill="#61ff9a">
+    <text x="28" y="43">[ NED-OS ]</text>
+    <text x="600" y="43" text-anchor="middle" letter-spacing="2">BUILD // LEARN // IMPROVE // REPEAT</text>
+    <text x="1172" y="43" text-anchor="end">[ END OF PROFILE ]</text>
+  </g>
+</svg>
