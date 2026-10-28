@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+  <title id="title">NED-OS Developer Profile</title>
+  <desc id="desc">A dark terminal banner with neon-green NED-OS branding and a pixel robot mascot.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020604"/>
+      <stop offset=".55" stop-color="#06180e"/>
+      <stop offset="1" stop-color="#020604"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop stop-color="#0c4427" stop-opacity="0"/>
+      <stop offset=".45" stop-color="#39ff88"/>
+      <stop offset="1" stop-color="#0c4427" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#39ff88" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="250" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="250" rx="18" fill="url(#grid)"/>
+  <rect x="18" y="18" width="1164" height="214" rx="12" fill="none" stroke="#1ba85a" stroke-opacity=".7"/>
+  <path d="M30 205H1170" stroke="url(#line)" stroke-width="2"/>
+  <g font-family="monospace">
+    <text x="54" y="48" font-size="15" fill="#61ff9a" letter-spacing="3">[ NED SYSTEMS ]</text>
+    <text x="51" y="122" font-size="66" font-weight="700" fill="#61ff9a" letter-spacing="1">NED-OS</text>
+    <text x="355" y="121" font-size="17" fill="#39ff88">v2.0</text>
+    <text x="55" y="157" font-size="17" fill="#d1fbe0" letter-spacing="2">A DEVELOPER'S OPERATING SYSTEM</text>
+    <text x="55" y="188" font-size="14" fill="#73bd91">LINUX  /  OPEN SOURCE  /  WEB DEVELOPMENT  /  MACHINE LEARNING</text>
+    <circle cx="1117" cy="48" r="5" fill="#61ff9a"/>
+    <text x="1133" y="53" font-size="13" text-anchor="end" fill="#bafbd0">SYSTEM ONLINE</text>
+    <text x="55" y="223" font-size="13" fill="#61ff9a" letter-spacing="2">BUILD // LEARN // IMPROVE // REPEAT</text>
+  </g>
+  <!-- Original pixel-art robot mascot -->
+  <g transform="translate(965 78)" shape-rendering="crispEdges">
+    <rect x="57" y="0" width="12" height="24" fill="#117d3f"/>
+    <rect x="57" y="-6" width="12" height="12" fill="#61ff9a"/>
+    <rect x="33" y="18" width="60" height="12" fill="#117d3f"/>
+    <rect x="21" y="30" width="84" height="60" fill="#39ff88"/>
+    <rect x="27" y="36" width="72" height="48" fill="#071b10"/>
+    <rect x="33" y="42" width="60" height="36" fill="#0e371d"/>
+    <rect x="39" y="48" width="12" height="12" fill="#61ff9a"/>
+    <rect x="69" y="48" width="12" height="12" fill="#61ff9a"/>
+    <rect x="45" y="66" width="30" height="6" fill="#117d3f"/>
+    <rect x="9" y="42" width="12" height="30" fill="#117d3f"/>
+    <rect x="105" y="42" width="12" height="30" fill="#117d3f"/>
+    <rect x="45" y="90" width="36" height="12" fill="#117d3f"/>
+    <rect x="33" y="102" width="24" height="12" fill="#39ff88"/>
+    <rect x="69" y="102" width="24" height="12" fill="#39ff88"/>
+  </g>
+  <circle cx="1095" cy="184" r="2" fill="#61ff9a"/>
+  <circle cx="1120" cy="166" r="3" fill="#61ff9a" opacity=".7"/>
+  <circle cx="1145" cy="190" r="2" fill="#61ff9a" opacity=".6"/>
+</svg>
