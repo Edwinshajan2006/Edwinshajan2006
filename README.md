@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020604,35:06351B,70:0B5D2B,100:020604&height=180&section=header&text=NED-OS&fontSize=58&fontColor=61FF9A&fontAlignY=38&desc=DEVELOPER%20PROFILE%20%E2%80%A2%20SYSTEM%20ONLINE&descAlignY=62&descSize=14" alt="NED-OS developer profile banner" />
+<img width="100%" src="./assets/ned-os-banner.svg" alt="NED-OS neon terminal banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=61FF9A&center=true&vCenter=true&width=760&lines=Hello%2C+I'm+Edwin+Shajan+%F0%9F%91%8B;Linux+%7C+Open+Source+%7C+Web+Development;Building+NED-OS+one+commit+at+a+time;Build.+Learn.+Improve.+Repeat." alt="Typing introduction" />
 
@@ -97,12 +97,12 @@ I'm Edwin, a B.Tech Computer Science and Engineering student at FISAT. I enjoy e
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Edwinshajan2006&show_icons=true&hide_border=true&bg_color=020604&title_color=61FF9A&icon_color=61FF9A&text_color=D1FBE0&ring_color=61FF9A" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwinshajan2006&layout=compact&hide_border=true&bg_color=020604&title_color=61FF9A&text_color=D1FBE0" alt="Most used languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Edwinshajan2006&show_icons=true&hide_border=true&bg_color=020604&title_color=61FF9A&icon_color=61FF9A&text_color=D1FBE0&ring_color=61FF9A" alt="GitHub statistics" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Edwinshajan2006&layout=compact&hide_border=true&bg_color=020604&title_color=61FF9A&text_color=D1FBE0" alt="Most used languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Edwinshajan2006&hide_border=true&background=020604&ring=61FF9A&fire=61FF9A&currStreakLabel=61FF9A&sideLabels=D1FBE0&currStreakNum=D1FBE0&sideNums=D1FBE0&dates=78A98B" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com/?user=Edwinshajan2006&hide_border=true&background=020604&ring=61FF9A&fire=61FF9A&currStreakLabel=61FF9A&sideLabels=D1FBE0&currStreakNum=D1FBE0&sideNums=D1FBE0&dates=78A98B" alt="GitHub contribution streak" />
 
 </div>
 
@@ -149,7 +149,7 @@ System: STILL BUILDING
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020604,50:06351B,100:020604&height=100&section=footer" alt="NED-OS green footer" />
+<img width="100%" src="./assets/ned-os-footer.svg" alt="NED-OS terminal footer" />
 
 <sub><code>[ SYSTEM STATUS: BUILDING SOMETHING USEFUL ]</code></sub>
 
