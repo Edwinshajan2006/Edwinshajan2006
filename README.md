@@ -14,7 +14,6 @@
 
 <a href="https://github.com/Edwinshajan2006"><img src="https://img.shields.io/badge/GitHub-020604?style=for-the-badge&logo=github&logoColor=61FF9A" alt="GitHub" /></a>
 <a href="https://github.com/Edwinshajan2006?tab=repositories"><img src="https://img.shields.io/badge/Projects-020604?style=for-the-badge&logo=github&logoColor=61FF9A" alt="Projects" /></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-020604?style=for-the-badge&logo=linkedin&logoColor=61FF9A" alt="LinkedIn" /></a>
 
 </div>
 
