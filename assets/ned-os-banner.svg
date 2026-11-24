@@ -23,9 +23,9 @@
   <g font-family="monospace">
     <text x="54" y="48" font-size="15" fill="#61ff9a" letter-spacing="3">[ NED SYSTEMS ]</text>
     <text x="51" y="122" font-size="66" font-weight="700" fill="#61ff9a" letter-spacing="1">NED-OS</text>
-    <text x="355" y="121" font-size="17" fill="#39ff88">v2.0</text>
-    <text x="55" y="157" font-size="17" fill="#d1fbe0" letter-spacing="2">A DEVELOPER'S OPERATING SYSTEM</text>
-    <text x="55" y="188" font-size="14" fill="#73bd91">LINUX  /  OPEN SOURCE  /  WEB DEVELOPMENT  /  MACHINE LEARNING</text>
+    <text x="355" y="121" font-size="17" fill="#39ff88">v3.0</text>
+    <text x="55" y="157" font-size="17" fill="#d1fbe0" letter-spacing="2">A PERSONAL LINUX ENVIRONMENT</text>
+    <text x="55" y="188" font-size="14" fill="#73bd91">LINUX  /  OPEN SOURCE  /  IOT  /  DEVELOPER TOOLS</text>
     <circle cx="1117" cy="48" r="5" fill="#61ff9a"/>
     <text x="1133" y="53" font-size="13" text-anchor="end" fill="#bafbd0">SYSTEM ONLINE</text>
     <text x="55" y="223" font-size="13" fill="#61ff9a" letter-spacing="2">BUILD // LEARN // IMPROVE // REPEAT</text>
