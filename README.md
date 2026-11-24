@@ -36,32 +36,45 @@ I'm Edwin, a Computer Science and Engineering student at **FISAT**. I like under
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Edwinshajan2006/Ned-OS">NED-OS</a></h3>
-      <p>A personalized Linux environment with terminal workflows, desktop customization and system utilities.</p>
-      <sub>Linux · Fedora · Shell</sub>
+      <p>A terminal-first Linux environment with system utilities, diagnostics, network controls and desktop customization.</p>
+      <sub>Linux · Fedora · Bash</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Edwinshajan2006/SPAM-DETECTION">SMS Spam Detection</a></h3>
-      <p>An SMS classification project using TF-IDF features and a Linear SVM model.</p>
-      <sub>Python · Machine Learning · scikit-learn</sub>
+      <h3><a href="https://github.com/Edwinshajan2006/ktunotes.live">KTUNOTES.LIVE</a></h3>
+      <p>A student-focused platform for KTU syllabus navigation, notes and previous question papers.</p>
+      <sub>Next.js · React · TypeScript</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Edwinshajan2006/SMART-FRIDGE-MANAGER">Smart Fridge Tracker</a></h3>
-      <p>An IoT-focused project for tracking items and managing expiry information.</p>
-      <sub>IoT · Web Development</sub>
+      <h3><a href="https://github.com/Edwinshajan2006/SPAM-DETECTION">SMS Spam Detection</a></h3>
+      <p>SMS classification using TF-IDF features and a Linear SVM model, with a Streamlit interface.</p>
+      <sub>Python · NLP · scikit-learn</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Edwinshajan2006/SMART-FRIDGE-MANAGER">Smart Fridge Manager</a></h3>
+      <p>A web app for tracking food items, expiry dates and quantities, with JSON export and backend integrations.</p>
+      <sub>React · Vite · Supabase · Firebase</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Edwinshajan2006/portfolio">Personal Portfolio</a></h3>
+      <p>A responsive developer portfolio with project showcases and an interactive terminal-inspired interface.</p>
+      <sub>HTML · CSS · JavaScript</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Edwinshajan2006/Arduino-projects-">Arduino Projects</a></h3>
-      <p>A collection of electronics and embedded-systems experiments.</p>
-      <sub>Arduino · Embedded Systems</sub>
+      <p>Embedded-systems experiments covering an OLED market tracker, Bluetooth audio tests and rover development.</p>
+      <sub>Arduino · ESP32 · Embedded Systems</sub>
     </td>
   </tr>
 </table>
 
 <div align="center">
 
-<a href="https://github.com/Edwinshajan2006?tab=repositories">Explore all repositories →</a>
+<a href="https://github.com/Edwinshajan2006/JAVA-FOR-COMPUTER-NETWORKS">Java Computer Networks Lab</a> ·
+<a href="https://github.com/Edwinshajan2006?tab=repositories">All repositories →</a>
 
 </div>
 
