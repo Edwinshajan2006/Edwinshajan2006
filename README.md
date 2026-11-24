@@ -3,10 +3,6 @@
 
 <img width="100%" src="./assets/ned-os-banner.svg" alt="NED-OS developer banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=61FF9A&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Edwin+Shajan;Computer+Science+%7C+Linux+%7C+Open+Source;Building+NED-OS+and+useful+side+projects;Curious+by+default.+Always+building." alt="Typing introduction" />
-
-<br/>
-
 <a href="https://github.com/Edwinshajan2006"><img src="https://img.shields.io/badge/GitHub-020604?style=for-the-badge&logo=github&logoColor=61FF9A" alt="GitHub" /></a>
 <a href="https://github.com/Edwinshajan2006?tab=repositories"><img src="https://img.shields.io/badge/Repositories-020604?style=for-the-badge&logo=github&logoColor=61FF9A" alt="Repositories" /></a>
 
@@ -88,14 +84,6 @@ I'm Edwin, a Computer Science and Engineering student at **FISAT**. I like under
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=Edwinshajan2006&hide_border=true&background=020604&ring=61FF9A&fire=61FF9A&currStreakLabel=61FF9A&sideLabels=D1FBE0&currStreakNum=D1FBE0&sideNums=D1FBE0&dates=78A98B" alt="GitHub contribution streak" />
-
-</div>
-
-## `contribution_grid`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Edwinshajan2006/Edwinshajan2006/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation" />
 
 </div>
 
